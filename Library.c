@@ -9,8 +9,12 @@ struct Book {
     int quantity;
 };
 
-void addBook();
-void displayBooks();
+void addBook(){
+    scanf("%s",&.title);
+}
+void displayBooks(){
+    
+}
 void searchBook();
 void issueBook();
 void returnBook();
